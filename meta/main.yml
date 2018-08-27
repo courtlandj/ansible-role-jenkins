@@ -5,7 +5,6 @@ dependencies:
 galaxy_info:
   author: courtlandj
   description: Jenkins CI
-  company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.2
   platforms:
